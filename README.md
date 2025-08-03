@@ -1,7 +1,5 @@
 # Power-Bi-
 
-PowerBi Project
-
 <h1>Sales Dashboard</h1>
 
 “Data-driven insights for smarter business decisions”
