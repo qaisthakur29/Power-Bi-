@@ -19,8 +19,7 @@ Profitability insights across Regions and Sub-Categories
 
 Interactive filters and slicers for deep dives
 
-<h3>📁 Tabs Overview</h3>
-<br><br>
+<h2>📁 Tabs Overview</h2>
 <br><br>
 <img width="1187" height="524" alt="image" src="https://github.com/user-attachments/assets/7577cfc8-4bb3-491d-b34b-1d580f79f5e0" />
 <br>
