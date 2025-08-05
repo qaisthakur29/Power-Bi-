@@ -20,6 +20,11 @@ Profitability insights across Regions and Sub-Categories
 Interactive filters and slicers for deep dives
 
 📁 Tabs Overview
+<br>
+<img width="1187" height="524" alt="image" src="https://github.com/user-attachments/assets/7577cfc8-4bb3-491d-b34b-1d580f79f5e0" />
+<br>
+<br>
+<br>
 <h1>Executive Overview</h1>
 <h3>Executive Overview Summary of overall performance with visual KPIs, map, and trends</h3>
 <img width="1175" height="669" alt="image" src="https://github.com/user-attachments/assets/a7c8f04a-aa18-4ce4-9a64-0c626a05392c" />
