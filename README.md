@@ -19,8 +19,9 @@ Profitability insights across Regions and Sub-Categories
 
 Interactive filters and slicers for deep dives
 
-📁 Tabs Overview
-<br>
+<h3>📁 Tabs Overview</h3>
+<br><br>
+<br><br>
 <img width="1187" height="524" alt="image" src="https://github.com/user-attachments/assets/7577cfc8-4bb3-491d-b34b-1d580f79f5e0" />
 <br>
 <br>
@@ -39,7 +40,7 @@ Interactive filters and slicers for deep dives
 
 <h1>Sales Trend Analysis</h1>
 <h3>Sales Trend Analysis View cumulative and yearly trends with time-based comparisons</h3>
-<img width="1181" height="666" alt="image" src="https://github.com/user-attachments/assets/7d698625-c19e-4e9b-a63e-18510a51c7c3" />
+<img width="874" height="486" alt="image" src="https://github.com/user-attachments/assets/c0243158-1452-47a9-95ac-4319340d4495" />
 
 
 🧠 Built For
