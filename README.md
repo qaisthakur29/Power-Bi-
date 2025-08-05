@@ -40,7 +40,7 @@ Interactive filters and slicers for deep dives
 
 <h1>Sales Trend Analysis</h1>
 <h3>Sales Trend Analysis View cumulative and yearly trends with time-based comparisons</h3>
-<img width="874" height="486" alt="image" src="https://github.com/user-attachments/assets/c0243158-1452-47a9-95ac-4319340d4495" />
+<img width="874" height="486" alt="image" src="https://github.com/user-attachments/assets/82611622-7cc1-4544-ae90-ab5d5a04503d" />
 
 
 🧠 Built For
